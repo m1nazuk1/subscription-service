@@ -1,0 +1,10 @@
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/SubscriptionServiceApplication.java
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/config/RabbitConfig.java
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/controller/SubscriptionController.java
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/controller/UserController.java
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/entity/Subscription.java
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/entity/User.java
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/repository/SubscriptionRepository.java
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/repository/UserRepository.java
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/service/MessageSenderService.java
+/Users/minazuki/DEV/subscription-service/src/main/java/com/example/subscriptionservice/service/UserService.java

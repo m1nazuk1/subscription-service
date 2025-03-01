@@ -1,0 +1,29 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: subscription-service
+  datasource:
+    url: jdbc:postgresql://db:5432/subscriptionsdb
+    username: postgres
+    password: postgres
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+    baselineOnMigrate: true
+  rabbitmq:
+    host: rabbit
+    port: 5672
+    username: appuser
+    password: secret
+
+logging:
+  level:
+    root: INFO
+    org.hibernate.SQL: INFO
+    org.springframework.amqp: INFO

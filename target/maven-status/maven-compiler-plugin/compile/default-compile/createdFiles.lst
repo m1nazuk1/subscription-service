@@ -1,0 +1,10 @@
+com/example/subscriptionservice/entity/Subscription.class
+com/example/subscriptionservice/repository/UserRepository.class
+com/example/subscriptionservice/SubscriptionServiceApplication.class
+com/example/subscriptionservice/controller/SubscriptionController.class
+com/example/subscriptionservice/controller/UserController.class
+com/example/subscriptionservice/config/RabbitConfig.class
+com/example/subscriptionservice/entity/User.class
+com/example/subscriptionservice/repository/SubscriptionRepository.class
+com/example/subscriptionservice/service/UserService.class
+com/example/subscriptionservice/service/MessageSenderService.class
